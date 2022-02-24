@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Presbyter's antidote choaking himself. Or Stephen Scandrett confuting himself in his erroneous bundle of confusion and absurdities, still'd, An antidote against Quakerism being a brief collection of some of his errors, blasphemies, and self-contradictions. Together with some interlineary notes upon them.</title>
+            <author>Ludgater, Robert, d. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49443</idno>
+            <idno type="STC">Wing L3456A</idno>
+            <idno type="STC">ESTC R221782</idno>
+            <idno type="EEBO-CITATION">99833039</idno>
+            <idno type="PROQUEST">99833039</idno>
+            <idno type="VID">37514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Presbyter's antidote choaking himself. Or Stephen Scandrett confuting himself in his erroneous bundle of confusion and absurdities, still'd, An antidote against Quakerism being a brief collection of some of his errors, blasphemies, and self-contradictions. Together with some interlineary notes upon them.</title>
+                  <author>Ludgater, Robert, d. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of text: From some of us concerned in the narrative of the two disputes in Essex, entituled, The glory of Christ's light within expelling darkness; i.e. Robert Ludgater, and others, of Coggeshall, in Essex -- cf. Smith.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In response to Scandrett, Stephen.  An antidote against Quakerisme.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scandrett, Stephen, 1631?-1706. --  An antidote against Quakerisme --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37514:1"/>
+            <head>Presbyter's Antidote CHOAKING HIMSELF. Or <hi>Stephen Scandrett</hi> confuting himſelf in his Erroneous Bundle of Confuſion and Abſurdities, ſtill'd, <hi>An Antidote againſt Quakeriſm</hi>: Being a brief Collection of ſome of his Errors, Blaſphemies, and Self-Contradictions. Together with ſome Interlineary Notes upon them.</head>
+            <p>
+               <note place="margin">Obſerve <hi>S. Scan<g ref="char:EOLhyphen"/>drett</hi>'s Contradicti<g ref="char:EOLhyphen"/>ons thus placed in his own words.</note>
+               <hi>S.S.</hi> I Aſſerted the Scriptures to be a moſt Certain and Infallible Rule to Guide us to Heaven, <hi>Epiſt.</hi>
+            </p>
+            <p>God only can enlighten and lead us into all Truth, <hi>Epiſt.</hi>—the In-dwel<g ref="char:EOLhyphen"/>ling Spirit of God—to lead into all Truth, to Quicken, Comfort, &amp;c. <hi>Antid.</hi> pag. 1. &amp; 2.</p>
+            <p>
+               <note place="margin">Our Notes thus.</note>Note, [<hi>God only then is our Guide to Heaven; the Scriptures ought not to be ſet above God: But in what Language or Copy are they Infallible? This he tells us not.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Try Doctrines by the Scriptures, <hi>Epiſt.</hi>—a Full Rule, a Trying Rule, <hi>Antid.</hi> p. 3.</p>
+            <p>Look up to God for Illum<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nation, to examine the grounds of our own and others Opinions, <hi>Epiſt.</hi>
+            </p>
+            <p>Note, [<hi>What need of this if the Scriptures be the chiefeſt, higheſt, full Trying Rule, as in</hi> pag. 21? <hi>Now God's Illumination is the chief Trying Rule.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Uncouch Speeches—that the Light in its common Operations is given to Unbelievers, none of my ſayings, <hi>Epiſt.</hi>
+            </p>
+            <p>The Spirit by common Convictions ſtrives with Unbelievers, who do reſiſt the Holy Ghoſt—ſome have ſinned away the Motio<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Strivings of God's Spirit, <hi>Antid.</hi> p. 38.</p>
+            <p>Note, [<hi>What? not given a <g ref="char:V">Ʋ</g>nbelievers, and yet both convict, and ſtrive with them?</hi>]</p>
+            <p>
+               <hi>S. S. G. W.</hi> would have inpudently faſtned upon me this Aſſertion—that I ſaid, Water-Baptiſm is neceſſary to Salvation, <hi>Epſt.</hi> p. 8.</p>
+            <p>Baptiſm with Water—a Means of Sanctification, a Means of Salvation, p. 81. <note n="*" place="margin">Errors.</note> Baptiſm is Goſpel, pag. 80, &amp; 77, &amp; 5, &amp; 10.</p>
+            <p>Note, [<hi>If not Neceſſary to Salvation, how then a means of it?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Nor is the Illuminaton of the Spirit a Rule at all <note n="*" place="margin">A groſs Error.</note> The Artificer's Rule is one thing; the clearneſs of his Eye to ſee the Rule, another, p. 33.</p>
+            <p>By a Rule underſtand not an Artificial Rule, by which Artificers are guided, <hi>Antid.</hi> p. 1.</p>
+            <p>The Spirit's Illumination brightens our Underſtanding, enlightens us to underſtand God's Mind in Scripture, p. 33.</p>
+            <p>Note, [<hi>Then the Illuminaton of the Spirit is the Divine Rule of the <g ref="char:V">Ʋ</g>nderſtanding, and ſo above the Scriptures, though not an Artifi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>al Rule.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Light that is in eve<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y man without the Scriptures cannot be any <hi>Rule</hi> at all to Salvation, <note n="*" place="margin">Error.</note>
+               <hi>Epiſt.</hi>
+            </p>
+            <p>Chriſt lighteth every man that cometh into the World—this Principle therefore is in the Diſobedi<g ref="char:EOLhyphen"/>ent as well, as the Obedient, <hi>Iom.</hi> 1.18. whereby they know much of Truth—it will render the whole World of Ungodly Men unexciſable at the laſt day, even thoſe that have not the Scriptures, <hi>Antid.</hi> p. 2.</p>
+            <p>Note, [<hi>This is, becauſe this Light of Chriſt in every man is ſufficient to guide, and be a Rule to Salvation; ſo they oppoſing it as ſuch, are inexuſable therein.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> This Light in every man is nothing elſe but Man's Reaſon <note n="*" place="margin">Error.</note> none of the four Lights, <hi>viz.</hi> not the ſaving Illumination of the Spirit—2. not the in-dwelling Spirit of God—3. not the Light of the Goſpel—4. not Chriſt, for he perſonally is in Heaven, <hi>Antid.</hi> p. 1, 2, 3. [<hi>Contradiction ſtill</hi>] yet it is a Light of Chriſt (or his Illumination that will render the whole World of Ungodly men unexcuſable.</p>
+            <p>Note, [<hi>In him was Life, and the Life was the Light of men,</hi> Joh. 1.4. <hi>which being Divine and Spiritu<g ref="char:EOLhyphen"/>al, as of Chriſt, of a Goſpel and Sav<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Property, doth therefore render the <g ref="char:V">Ʋ</g>ngodly unexcuſable.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Scriptures are a f<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Rule, diſcovering all things neceſſary to Salvation, the whole Mind and Will of God, &amp;c. <hi>Antid.</hi> p. 3, 4.</p>
+            <p>The Spirit enlightens us to underſtand God's Mind, &amp;c. p. 33. looking up to God for Illumination, &amp;c. <hi>Epiſt. ded.</hi>
+            </p>
+            <p>Note, [<hi>The diſcovering of all things neceſſary is by the Spirit, or Anointing within,</hi> 1 Joh. 2.27. <hi>the Scrip<g ref="char:EOLhyphen"/>tures being inferior to this, refer us to it as the full Rule and Enlightner of the <g ref="char:V">Ʋ</g>nderſtanding.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> If the Scriptures (or Will of God revealed in them) be the only Rule, then all other Rules are falſe <note n="*" place="margin">Blaſ<g ref="char:EOLhyphen"/>phemy.</note> Rules, and no Rules, <hi>Epiſt.</hi>
+            </p>
+            <p>Neither of theſe (<hi>viz</hi> the Light in every man, nor the Scripture) is wholy to be caſt off—the Light in every man is not wholy to be caſt off—nor the Voice of Conſcience, <hi>Antid.</hi> p. 3, 5.</p>
+            <p>Note, [<hi>Hereby he has confeſſed the Light in every man to be a Rule, however not to be caſt off; but then his excluding all but Scriptures, as falſe, and no Rule, is groſly Erroneous and Blaſphemous.</hi>
+            </p>
+            <p>
+               <hi>S. S.</hi> The Scriptures are as the Sun, <note n="*" place="margin">Error.</note> a full Light to guide us to Heaven, <hi>Antid.</hi> p. 6.</p>
+            <p>God by his Spirit enlightning, gives and encreaſeth the ſaving Knowledge of Chriſt, and thus firſt they become Believers, p. 7. enlightning us to underſtand God's Mind in the Scripture, p. 33.</p>
+            <p>Note, [<hi>See how he claſhes againſt himſelf here; can the Sun be added unto, or made brighter by the ſhining or reflection of any Light counted inferior? but God is a Sun and a Shield, and the Scriptures are not God.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Light in every man convinceth not of juſtifying Righteouſneſs—it reveals not Chriſt at all, p. 7. no full Light to travel by, p. 6. the Light in every man never grew up to make of it ſelf, and without the Scriptures any diſcovery of Chriſt, p. 8. cannot poſſibly be an infallible Rule to Heaven <note n="*" place="margin">Errors.</note> p. 26.</p>
+            <p>I yield, that without the Scriptures this Light is able to diſcover ſomething of God, and his Mind and Will unto us—it can reveal there is a God, that he is to be feared, loved, truſted in, worſhipped, that his Name is to be reverenc'd, &amp;c. <hi>Antid.</hi> p. 6. and its Chriſt that enlighteneth every man, <hi>Antid.</hi> p. 2.</p>
+            <p>Note, [<hi>What! no Diſcovery of Chriſt, nor juſtifying Righteouſneſs, and yet ſo much of God and his Love? What ſtrange Contradiction is this, and what groſs Error, thus to divide God and his Son, as if they were not both one Subſtance, or nothing related!</hi>]</p>
+            <p>
+               <note place="margin">S. S. His cheif Ar<g ref="char:EOLhyphen"/>gum. con<g ref="char:EOLhyphen"/>tradicted.</note>
+               <hi>S. S.</hi> This Light cannot reveal Chriſt (can make no diſcovery of Chriſt)—it cannot ſpeak one ſyllable of Chriſt, p. 15, 30, 31.</p>
+            <p>It can reveal there is a God, that he is to be worſhipped, loved—that we are to love one another —it can without Scriptures teach moral Duties, &amp;c. p. 6, 30.</p>
+            <p>Note, [<hi>Can the Light within reveal God, and not Chriſt? and Piety, but not Chriſtianity? What ſtrange Im<g ref="char:EOLhyphen"/>piety and Confuſion is this againſt Chriſt's Light? ſee</hi> Luke 10.21.]</p>
+            <p>
+               <hi>S. S.</hi> The Light in man is real Darkneſs—is but Darkneſs, 'tis meer Darkneſs—it both can, and doth miſguide, <note n="*" place="margin">Blaſ<g ref="char:EOLhyphen"/>phemies.</note> p. 29, 30, 31.</p>
+            <p>And in theſe things (aboveſaid) becauſe the Light in every man ſpeaks according to Scripture, we are to attend unto it, &amp;c. p. 6.</p>
+            <p>Note, [<hi>And what? muſt we attend upon real Darkneſs? Oh great Darkneſs! How great is his Darkneſs, that thus puts Darkneſs for Light, and Light for Darkneſs!</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Nor is the Illumination of the Spirit a Rule at all—the Spirit not a Rule, <note n="*" place="margin">Falſe Doctrine.</note> &amp;c. p. 33.</p>
+            <p>The Light within was not their full or whole Rule, p. 13. it diſcovers but part of God's Will, p. 35.</p>
+            <p>[<hi>In Contradiction again</hi>] Pray that God's Kingdom might come, his Spirit might govern within us, and Cauſe us to bring forth Fruit, p. 14. the Spirit ſhall lead them into all Truths neceſſary to Salva<g ref="char:EOLhyphen"/>tion, &amp;c.</p>
+            <p>Note, [<hi>Not a full Rule, implies, 'tis ſome Rule; but if the Spirit within govern, lead us into all Truth, and cauſe us to bring forth Fruit, then it is a full Rule; For, need there be any fuller, then to lead into all Truths neceſſary?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> My ſecond Aſſertion to ſet forth the Scripture's worthineſs, to be embraced as the chief and higheſt Rule <note n="*" place="margin">Error.</note> [<hi>Mark</hi>] p. 21. only Rule, 39. guiding to Glory, 12. the Only Rule; all other Rules falſe, and no Rules, <hi>Epiſt.</hi>
+            </p>
+            <p>The Inſpiration of the Almighty giveth Underſtanding, and this in all Points neceſſary to Salva<g ref="char:EOLhyphen"/>tion—the Spirit ſaith, Chriſt ſhall lead you into all Truth—the Duty of all is to look up to God by Prayer for his Spirit, in a right manner to underſtand the Scriptures, p. 24.</p>
+            <p>Note, [<hi>And its no better then Blaſphemy, to account the Inſpiration of the Almighty a falſe Rule, or no Rule; or the Scriptures a Rule higher then it, or a higher Rule then Chriſt, who is the Way, &amp;c.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Scriptures are a ſufficient Guide to Salvation, p. 35.</p>
+            <p>The Spirit ſaith, Chriſt ſhall lead you into all Truth.</p>
+            <p>Note, [<hi>The Scriptures are not Chriſt.</hi>]</p>
+            <p>
+               <hi>S. S. Paul</hi>'s Conſcience put him on to perſecute—did act not againſt his Light, p. 28. all his beſt preſent Light was poſitively for perſecuting the Church <note n="*" place="margin">Blaſ<g ref="char:EOLhyphen"/>phemy.</note> p. 29.</p>
+            <p>God ſets up Conſcience in man, to act according to the beſt Light in him, p. 29. the Spirit by com<g ref="char:EOLhyphen"/>mon Convictions ſtrives with Unbelievers, p. 38.</p>
+            <p>Note, [<hi>Its horrid Blaſphemy thus to accuſe that, that God ſets up, or his best Light with Perſecution; which the Light of the Spirit ſtrives againſt as a Work of Darkneſs, and not of Light.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Light in us meets with much Darkneſs and Vice to corrupt it—a Corrupt Judge <note n="*" place="margin">Error.</note> will paſs a wrong Sentence, p. 38.</p>
+            <p>[<hi>Yet</hi>] It is a Light of the Spirit of God, wrought by the Spirit of God in every man, p. 27, 28.</p>
+            <p>Note, [<hi>Its Blaſphemy to count the Light of the Spirit of God a corrupt Judge; the Light is incorruptible.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Spirit dwelling in all Believers is ſometimes a ſweet Mover to Duty, though no in-dwelling Spirit, <note n="*" place="margin">Confu<g ref="char:EOLhyphen"/>ſion.</note> p. 38.</p>
+            <p>The in-dwelling Spirit of God, the truly-Sanctified have him dwelling in them to help their In<g ref="char:EOLhyphen"/>firmities, to lead them into all Truth, to quicken, comfort, ſtrengthen, &amp;c. p. 1, 2.</p>
+            <p>Note, [<hi>What groſs Confuſion and Scribling is this! What? no in-dwelling Spirit? Yet the in-dwelling Spi<g ref="char:EOLhyphen"/>rit, the Spirit dwelling in them?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Light in every man cannot of it ſelf guide us one ſtep towards Salvation, p. 6, 21. nor is it any Rule at all to Heaven, <note n="*" place="margin">Groſs Errors.</note> p. 20.</p>
+            <p>Without the Scriptures this Light can reveal, that there is a God, that he is to be feared, truſted in, worſhipped, loved, &amp;c. p. 6, 30.</p>
+            <p>Note, [<hi>And are theſe no ſteps towards Salvation and Heaven? Let the Chriſtian Reader judge, and ſee</hi>
+Luke 10.27, 28.]</p>
+            <p>
+               <hi>S. S.</hi> The Light in every man, and immediate Revelation and Teaching, is no Rule to Heaven, becauſe they reveal not all, or the whole Duty, p. 54, 61, 62.</p>
+            <p>And the Spirit is NOT A RULE, nor its Illumination, p. 33, 26, 35.</p>
+            <p>The Spirit doth not immediately reveal the WHOLE Bible to Believers, therefore he doth not immediately reveal to them all their Duty; for its their Duty to believe all that is there taught, and to practice all <note n="*" place="margin">A ſtrange Impoſi<g ref="char:EOLhyphen"/>tion.</note> that is there commanded, p. 61.</p>
+            <p>None ever did, none ever could live up to the Light, p. 46, 44. [<hi>and yet Contra.</hi>] it reveals but a ſmall part of their Duty, p. 35, 62.</p>
+            <p>Note, [<hi>See what an impoſſible Way and Rule to Heaven he hath here preſcribed, not the Light in every man, which he ſaith, None ever could live up to; and yet ſaith, It reveals but a ſmall part of their Duty; and how then ſhould they believe and practice the whole Bible, or all their Duty, if not a ſmall part? Do you think,</hi> S. S. <hi>makes it his Duty to practiſe all that's commanded in the Bible? What ſay you Profeſſors to this Doctrine? But the Law of the new Covenant of the Spirit of Life in Chriſt is to be kept, wherein God's Children ſhall not depart from him.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> None ever could live up to the Light, <note n="*" place="margin">Falſe.</note> p. 46.</p>
+            <p>God's good End in giving this Light is, to reveal moral Duties, and Sins againſt Nature, that avoid<g ref="char:EOLhyphen"/>ing theſe Sins, and practizing theſe Duties, &amp;c. p. 47.</p>
+            <p>Note, [<hi>Manifeſt Contradiction again: Does not God afford Power to anſwer his own Good End?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Darkneſs cannot ſavingly enlighten; the Light in every man is Darkneſs, p. 42—a falſe Rule, p. 39—Sand, p. 62—real Darkneſs, <note n="*" place="margin">Blaſ<g ref="char:EOLhyphen"/>phemies.</note> p. 29.</p>
+            <p>If a man improves his Light within him, he may be ſaved, p. 49.</p>
+            <p>Note, [<hi>But Darkneſs and Sand cannot ſave him.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> This Teaching (to wit, of the Spirit) is no Rule at all, p. 53.</p>
+            <p>He teacheth us Phyſically, by enlightening our minds; thus God's Spirit aſſures our Hearts that Jeſus is Chriſt, p. 53.</p>
+            <p>Note, [<hi>How then no Rule at all? Is his Teaching no Teaching?</hi>]</p>
+            <p>S. S. With the uſe of Reaſon the Spirit teaches the Heathen moral Duties (<hi>viz.</hi> To love God, &amp;c.) p. 54.</p>
+            <p>Note, [<hi>And is the Light of the Spirit no Goſpel Light?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> The Illumination of the Spirit is no Rule at all, p. 33.</p>
+            <p>It makes for our ſafety to earneſtly look up, and to pray for the Illumination of God's Spirit, p. 55.</p>
+            <p>Note, [<hi>What Safety, if no Rule at all?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Immediate Teachings not to be expected <note n="*" place="margin">Error.</note> for continuance by the Church, p. 59.</p>
+            <p>The Anointing that ye have received, abideth in you; and ye need not that any man teach you—the Comforter ſhall teach you all things—we hear a Word behind us, 1 <hi>Jo.</hi> 2.27. <hi>Jo.</hi> 14.26. <hi>Iſa.</hi> 30.31. p. 53.</p>
+            <p>Note, [<hi>All which proves Immediate Teachings continue in the true Church, though not in the falſe; nor do they conſiſt with the Trade of Hireling Prieſts.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> It is God's good Pleaſure, that he will not remove the Beeing of Sin in this Life <note n="*" place="margin">Blaſ<g ref="char:EOLhyphen"/>phemy.</note> p. 63.
+<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Soul that knows God, but he keeps his Commandments, p. 43, 42.</p>
+            <p>Note, [<hi>Its the Devil's Pleaſure, to have the Beeing of ſin unremoved in this Life, and not God's.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> He ſees good to ſuffer Corruptions in part mortified in his Saints, to keep them humble <note n="*" place="margin">Falſe Doctrine.</note>
+pag. 6, 3.</p>
+            <p>The God of all Grace open your Underſtanding, to ſee your Duty, and obey fully, p. 52.</p>
+            <p>Note, [<hi>Do you think this man doth Heartily pray for ſuch a full Obedience, when he has ſuch an high eſteem of Corruptions?</hi>]</p>
+            <p>
+               <hi>S. S.</hi> Sin is not done away in this Life, <note n="*" place="margin">Falſe</note> it ſhall in the next, p. 64.</p>
+            <p>A Believer dies unto ſin by degrees—ſo at his Death ſin is forever totally aboliſhed, p. 64.</p>
+            <p>Note, [<hi>See their Confuſion here, one while after Death, another while at Death.</hi>]</p>
+            <p>
+               <hi>S. S.</hi> To the Laſt Trump will ſin be in the Saints, p. 64. which Laſt Trump is at the end of the World, when the Dead ſhall ariſe, p. 85.</p>
+            <p>No unclean thing ſhall enter the Kingdom of Heaven: Chriſt is to preſent us Holy, Unblameable Unreprovable, a Glorious Church, not having Spot or Wrinkle, p. 64.</p>
+            <p>Note [<hi>Where then are all the deceaſed Saints ſince the beginning? And where muſt they be till this laſt Trump he ſpeaks of, if ſin ſhall be in them in the mean while, wherewith they cannot enter the Kingdom; doth not this Doctrine imply a</hi> Purgatory <hi>herein? judge</hi> Chriſtian <hi>Reader and</hi> Proteſtant]</p>
+            <p>
+               <hi>S. S.</hi> Faith it ſelf can be imperfect, 1 <hi>Theſ.</hi> 3.10. imperfection is ſin Pag. 67, 68.</p>
+            <p>The work or thing wrought is alwayes perfect for its part, nature, or kind, as a Bud is a per<g ref="char:EOLhyphen"/>fect Bud — the leaſt Drachm of Grace true, Pag. 68.</p>
+            <p>Note [<hi>Faith which is the Gift of God, is of a pure and ſinleſs Nature, ſo imperfection (where it imports only the want of full growth, or maturity of that which in its kind is pure) is not ſin</hi>]</p>
+            <p>
+               <hi>S. S. Job</hi> abhors to entertain ſuch a thought (as being perfect) Pag. 72.</p>
+            <p>
+               <hi>Job</hi> 23.10, 11. I ſhall come forth as Gold — my foot hath held his ſteps, Pag. 72.</p>
+            <p>Let not any pretend, to be well grown in Grace, that will not look on himſelf as imperfect, Pag. 72.</p>
+            <p>God ſpeaking true, <hi>Job</hi> was perfect, that is, well grown in Grace, Pag. 72.</p>
+            <p>
+               <hi>Job</hi> denying himſelf to be perfect, if he ſpeak truth; was not perfect: if falſhood, he was perfect, <note n="*" place="margin">ſee what Bedlam ſtuff is here a<g ref="char:EOLhyphen"/>gainſt Perfecti<g ref="char:EOLhyphen"/>on.</note> Pag. 72.</p>
+            <p>God ſpeaking true, he was perfect, that is, upright, ſincere, well grown in Grace, Pag. 72. <hi>Cum multis alijs, quae nunc perſcribere longum eſt.</hi>
+            </p>
+            <p>S. S. <hi>his Definitions and Titles he puts upon the Light in every Man</hi> (viz.)</p>
+            <p>Dictates and Directions of every man's Heart—a created mutable light revealed by the Spirit, which may dictate Sin and Error, P. 25, 28, 29. a corrupt Judge, P. 28. <hi>Paul's</hi> thoughts,<note place="margin">Where will you believe S. S? here?</note> his preſent beſt light was poſitively for perſecuting the Church, Pag. 29. Real Darkneſs, Pag. 29. fallible it ſelf, P. 35. the Dictates of mens dark Underſtandings; their own Apprehenſions, P. 36. A falſe Rule, pag. 39. Shallow dim light, p. 46. Sand p. 62. Law of Nature; Scanty light pag. 35.</p>
+            <p>
+               <hi>But in plain contradiction to theſe; ſee what better Titles he gives the Light in every man</hi> (viz)</p>
+            <p>Reaſon; a Principle of Knowledge, P. 3. a common Operation of the Spirit of God; a Light wrought by the Spirit of God, Pag. 24, 27, 28. common Convictions of the Spirit,<note place="margin">or here?</note> Pag. 38. com<g ref="char:EOLhyphen"/>mon Illuminations, to taſte of the heavenly Gift, and Powers of the World to come, Pag. 41. Chriſt lighteth every man, &amp;c. Pag. 2. <hi>Here he hath a little mended the matter, but in Pag.</hi> 35.36 <hi>he again blaſphemouſly oppoſeth the Light within, in this manner, (viz.)</hi> If this be a try<g ref="char:EOLhyphen"/>ing Rule, then a man may do whatſoever is right in his own Eyes; then Hereſie is no Sin, nor Drunkneſs, nor Whoredom, nor Theft <note n="*" place="margin">or in theſe Blaſphemies here? which to us are no wonder<g ref="char:EOLhyphen"/>ments; ſeeing he cannot di<g ref="char:EOLhyphen"/>ſcern between the Counſels of Light and Darkneſs in the heart, not having an Infalli<g ref="char:EOLhyphen"/>ble Spirit, as he confeſſeth in p. <hi>27,</hi> &amp; <hi>31.</hi> ſo the Reader may judge, whence his Book came.</note> nor ſelf Murder, by faſt<g ref="char:EOLhyphen"/>ing as long as done according to his light within. <hi>And S. S. adds,</hi> That the Light within may approve of ſin, as it did of Perſecution in <hi>Saul,</hi> Pag. 36. [<hi>See what hor<g ref="char:EOLhyphen"/>rible Blaſphemies theſe are, and what Truſt or Confidence is to be had in this man, who thus ſaith; and unſaith; one while confeſſing to the Illumination of Chriſt in every man; an<g ref="char:EOLhyphen"/>other while thus horribly accuſing it of Hereſie, Drunkenneſs, &amp;c. as approving thereof, and of Perſecution; What are theſe Doctrines, but Fruits of a Dark, Envious, Blaſphe<g ref="char:EOLhyphen"/>mous, Drunken Spirit; let all unbyaſſed Readers judge.</hi>
+            </p>
+            <p>
+               <hi>And let the Heathen judge S. S. with their light ſo much deſpiſed by him.</hi>
+Sperne repugnando tibi tu contrarius eſſe: Conveniet nulli, qui ſecum diſſidet ipſe. <hi>Cato. Scorn, to thy ſelf by thwarting Croſs to be, Who falls out with himſelf, with none can 'gree.</hi>
+            </p>
+            <p>
+               <hi>We deſire to know, which of you</hi> S. Scandrett'<hi>s Brethren, the</hi> Presbyterians, <hi>do own his</hi> Antidote againſt Quakeriſm, <hi>as he calls it: and whether any of you Non-conformiſt Teachers dare ſtand by him in all his Do<g ref="char:EOLhyphen"/>ctrines recorded in the ſaid Book, for we have a further Anſwer reſerved unto it, which if need require, we can divulge: but it were better for him, and you, that ſome of you did perſwade</hi> S. Scandret, <hi>to call in his ſaid Book (or otherwiſe ſhew your diſlike of it) it being ſuch a bundle of confuſion, Errors, Lyes, and Abuſes againſt Truth, and as called</hi> Quakers; <hi>that it would be more ingenuous, and leſs diſparagement to you and him, to call it in again; for the light of Truth is over it all, and People are ſo wearied, and grown to ſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of ſuch pretended Antidotes, that many are wiſer then beſtow</hi> 16. <hi>or</hi> 18. <hi>pence upon ſuch a B<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>le of <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Confuſion, and groſs Darkneſs, which the Light of Truth hath diſcovered, and will expel to the <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>From ſome of us concerned in the Narrative of the two Diſputes in <hi>Eſſex,</hi> Entituled, <hi>The Glory of Chriſt's Light within expelling Darkneſs.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
